@@ -1,7 +1,7 @@
 package study.java;
 
 public  class Abstra2  extends Google{
-
+///////////////
 	
 	public void message()
 	{
